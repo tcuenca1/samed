@@ -1,6 +1,12 @@
-# Completar con los usuarios de GitHub
+# Dueños por carpeta (Plan de GC, CI-801 §3). GitHub pide su revisión en cada PR.
+# La última regla que coincide gana: la regla general va primero.
+* @tcuenca1
 /apps/api/ @German1450
+/packages/ @German1450
 /db/ @German1450
+/infra/ @German1450
+/.env.example @German1450
+/docs/03_confiabilidad/ @German1450
 /apps/mobile/ @TheBat849
 /docs/02_seguridad/ @TheBat849
 /docs/06_modelo_verificacion/ @TheBat849
@@ -8,7 +14,13 @@
 /docs/01_sistema/ @JuanPaladinesCoding
 /docs/04_cleanroom/ @JuanPaladinesCoding
 /docs/05_especificacion/ @JuanPaladinesCoding
+/docs/00_proyecto/ @tcuenca1
 /docs/07_configuracion/ @tcuenca1
+/docs/08_versionamiento/ @tcuenca1
 /docs/09_cambios/ @tcuenca1
 /docs/10_metricas/ @tcuenca1
 /docs/11_matrices/ @tcuenca1
+/docs/13_certificacion/ @tcuenca1
+/docs/14_errores_lecciones/ @tcuenca1
+/evidencias/ @tcuenca1
+/.github/ @tcuenca1

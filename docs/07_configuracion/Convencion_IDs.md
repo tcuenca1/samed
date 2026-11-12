@@ -42,6 +42,8 @@ Reglas: tres dígitos con ceros; numeración correlativa que no se reinicia; un 
 
 | Prefijo | Terry | Germán | Neyls | Juan |
 |---|---|---|---|---|
+| RNF | — | 201–299 (confiabilidad, rendimiento, disponibilidad) | 101–199 (seguridad) | 001–099 (catálogo base) |
+| AS | — | — | 001–099 | — |
 | TC | 300–399 | 100–199 | 200–299 | 001–099 |
 | DEF | 300–399 | 100–199 | 200–299 | 001–099 |
 | RSK | — | 100–199 (confiabilidad) | 001–099 (seguridad) | — |
